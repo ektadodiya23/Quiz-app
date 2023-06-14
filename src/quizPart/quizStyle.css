@@ -1,0 +1,11 @@
+.box_Container{
+    margin-left: 12%;
+    margin-right: 12%;
+    margin-top: 5%;
+    border-radius: 12px;
+    box-shadow: 12px black;
+}
+.link_item{
+    text-decoration: none;
+    color: white;
+}
